@@ -28,15 +28,15 @@ as the background-color variable was spelt wrong causing the page colour to not 
 
 the text color was changed from black to black.
 
-the tag <big> was used which is no longer supported
+the tag `<big>` was used which is no longer supported
 
-tags <part1> <part1.1> and <part2> were used which don't exist in html.
+tags `<part1> <part1.1> and <part2>` were used which don't exist in html.
 
 metadata was used however it was setup as "fish" instead of "viewport" so won't work correctly
 
 links were correctly used and images were too.
 
-The lists were incorrect because <li> tags need to be wrapped <ul> tag.
+The lists were incorrect because `<li>` tags need to be wrapped in a `<ul>` tag.
 
 Evidence of collaboration
 -------------------
